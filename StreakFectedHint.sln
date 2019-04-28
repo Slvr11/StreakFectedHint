@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreakFectedHint", "StreakFectedHint\StreakFectedHint.csproj", "{3111CFB5-2DE9-46E7-AA49-84B4004D4EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3111CFB5-2DE9-46E7-AA49-84B4004D4EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3111CFB5-2DE9-46E7-AA49-84B4004D4EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3111CFB5-2DE9-46E7-AA49-84B4004D4EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3111CFB5-2DE9-46E7-AA49-84B4004D4EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
